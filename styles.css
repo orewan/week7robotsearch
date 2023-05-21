@@ -1,0 +1,43 @@
+.bg{
+    background-image: url("img/circuit-pattern.png");
+}
+
+
+.theForm{
+    height: 150px;
+    background-color: green;
+}
+
+
+.name{
+    width: 150px;
+    height: 150px;
+    background-color: azure;
+    border: 1px solid black;
+}
+
+
+.cardRobotClass{
+    
+    display: flex;
+    justify-content: flex-start;
+    
+    background-image: url("img/card-pattern.png");
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    background-color: greenyellow;
+  
+    
+}
+
+.img{
+    
+    display: flex;
+    flex-flow: wrap;
+    width: 60px;
+    height: 80px;
+    border: 1px black solid;
+    margin: 10px;
+    
+}
